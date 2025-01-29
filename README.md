@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&color=B800CF&width=500&height=70&duration=5000&lines=Welcom+to+My+GidHub+Profile!;+I'm+Malika+Kasmalieva.;" />
 </h1>
 
+<h3 align="center">Full-Time Student</h3>
 <p align="center">
+
   ----------------- <br>
   🌍 I'm based in Kuala Lumpur <br>
   ✉️ You can contact me at <a href="mailto:kasmalievape@graduate.utm.my">kasmalievape@graduate.utm.my</a> <br>
