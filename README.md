@@ -11,8 +11,7 @@
   🤝 I'm open to collaborating on varieties of projects
 </p>
 <br>
-  
-  <br/><br/><br/>
+<br/>
 <table>
   <tr>
     <td width="60%" align="justify">
