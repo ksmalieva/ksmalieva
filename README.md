@@ -5,11 +5,11 @@ Full-Time Student
 -----------------
 <table>
   <tr>
-    <td>
+    <td width="60%" align="justify">
       I am a software engineering student with a strong passion for working on large-scale, complex systems rather than traditional web or app development. My focus is on maintaining, optimizing, and upgrading advanced systems such as industrial machinery, automated engines, and high-tech infrastructure used in manufacturing, aerospace, or other cutting-edge industries. I am particularly drawn to environments where I can contribute to the development of innovative technologies.
     </td>
-    <td>
-      <img src="https://media1.giphy.com/media/lP8ezu4iNVmZYOZn3j/200w.gif?cid=6c09b952r1zpjyjk2qsw34iv1ripy8o8ayipzjydsns9ub90&ep=v1_gifs_search&rid=200w.gif&ctf=g" alt="GIF" width="300">
+    <td width="40%" align="center">
+      <img src="https://media1.giphy.com/media/lP8ezu4iNVmZYOZn3j/200w.gif?cid=6c09b952r1zpjyjk2qsw34iv1ripy8o8ayipzjydsns9ub90&ep=v1_gifs_search&rid=200w.gif&ctf=g" alt="GIF" width="350">
     </td>
   </tr>
 </table>
