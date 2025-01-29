@@ -1,5 +1,4 @@
-
-<div align="right">
+<p align="right" style="margin-right: 10px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+Malika+Kasmalieva." alt="Typing SVG">
   </a>  
@@ -7,15 +6,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B500DC&width=435&lines=Full-Time+Student" alt="Typing SVG">
   </a>
-</div>
+</p>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B500DC&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+Malika+Kasmalieva." alt="Typing SVG">
-  </a><br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B500DC&width=435&lines=Full-Time+Student" alt="Typing SVG">
-  </a><br>
   ----------------- <br>
+  
   🌍 I'm based in Kuala Lumpur <br>
   ✉️ You can contact me at <a href="mailto:kasmalievape@graduate.utm.my">kasmalievape@graduate.utm.my</a> <br>
   🤝 I'm open to collaborating on varieties of projects
