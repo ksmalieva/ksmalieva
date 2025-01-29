@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcom+to+My+GidHub+Profile!;+I'm+Malika+Kasmalieva.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=40&center=true&vCenter=true&color=B800CF&width=500&height=70&duration=5000&lines=Welcom+to+My+GidHub+Profile!;+I'm+Malika+Kasmalieva.;" />
 </h1>
 
 <p align="center">
