@@ -3,8 +3,8 @@
 </h1>
 
 <h3 align="center">Full-Time Student</h3>
-<p align="center">
 
+<p align="center">
   ----------------- <br>
   🌍 I'm based in Kuala Lumpur <br>
   ✉️ You can contact me at <a href="mailto:kasmalievape@graduate.utm.my">kasmalievape@graduate.utm.my</a> <br>
