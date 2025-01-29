@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <span style="font-family: 'Fira Code', monospace; color: #B500DC; font-size: 24px;">Full-Time Student</span> <br>
   ----------------- <br>
   🌍 I'm based in Kuala Lumpur <br>
   ✉️ You can contact me at <a href="mailto:kasmalievape@graduate.utm.my">kasmalievape@graduate.utm.my</a> <br>
