@@ -3,8 +3,9 @@
 
 Full-Time Student
 -----------------
-<p align="left">
-[![image](https://github.com/user-attachments/assets/d71efc1e-839f-4b7f-9d1c-ad38bd9448de)]</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d71efc1e-839f-4b7f-9d1c-ad38bd9448de" alt="image">
+</p>
 
 I am a software engineering student with a strong passion for working on large-scale, complex systems rather than traditional web or app development. My focus is on maintaining, optimizing, and upgrading advanced systems such as industrial machinery, automated engines, and high-tech infrastructure used in manufacturing, aerospace, or other cutting-edge industries. I am particularly drawn to environments where I can contribute to the development of innovative technologies.
 
