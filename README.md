@@ -1,11 +1,8 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B500DC&width=350&lines=Welcome+to+My+GitHub+Profile!;I'm+Malika+Kasmalieva." alt="Typing SVG">
-  </a>
-</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcom+to+My+GidHub+Profile!;+I'm+Malika+Kasmalieva.;" />
+</h1>
 
 <p align="center">
-  <span style="font-family: 'Fira+Code', monospace; color: #B500DC; font-size: 24px;">Full-Time Student</span> <br>
   ----------------- <br>
   🌍 I'm based in Kuala Lumpur <br>
   ✉️ You can contact me at <a href="mailto:kasmalievape@graduate.utm.my">kasmalievape@graduate.utm.my</a> <br>
