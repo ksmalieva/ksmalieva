@@ -1,13 +1,14 @@
-<p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+Malika+Kasmalieva.)](https://git.io/typing-svg) </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+Malika+Kasmalieva.)](https://git.io/typing-svg)
 =========================================================================================================================================
 Full-Time Student
 -----------------
 
 <p align="center">
   🌍 I'm based in Kuala Lumpur <br>
-  ✉️ You can contact me at [kasmalievape@graduate.utm.my](mailto:kasmalievape@graduate.utm.my) <br>
+  ✉️ You can contact me at <a href="mailto:kasmalievape@graduate.utm.my">kasmalievape@graduate.utm.my</a> <br>
   🤝 I'm open to collaborating on varieties of projects
 </p>
+
 
 <table>
   <tr>
