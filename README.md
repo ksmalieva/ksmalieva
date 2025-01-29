@@ -1,4 +1,4 @@
-<p align="right" style="margin-right: 10px;">
+<p align="right" style="margin-right: 5px;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+My+GitHub+Profile!;I'm+Malika+Kasmalieva." alt="Typing SVG">
   </a>  
@@ -10,7 +10,6 @@
 
 <p align="center">
   ----------------- <br>
-  
   🌍 I'm based in Kuala Lumpur <br>
   ✉️ You can contact me at <a href="mailto:kasmalievape@graduate.utm.my">kasmalievape@graduate.utm.my</a> <br>
   🤝 I'm open to collaborating on varieties of projects
